@@ -1,13 +1,6 @@
 # [Coding Bean Website](https://codingbeans.org)
 
-This website is to help parents to apply for after-school coding class in public school.
-
-## Getting Started
-
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
-* Fork the repo
+The purpose of our team is to tutor computer coding to help you reach your goal faster. This website is to help students and parents to apply for after-school coding class in the public school.
 
 ## Computer Languages
 
@@ -20,7 +13,7 @@ To begin using this template, choose one of the following options to get started
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+Coding Bean Website was created by and is maintained by **[JIN KIM](http://smartjinny.com/)
 
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller
