@@ -1,6 +1,6 @@
 # [Coding Bean Website](https://codingbeans.org)
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [SMARTJIN (JIN KIM)](http://github.com/texas000).
 
 ## Getting Started
 
