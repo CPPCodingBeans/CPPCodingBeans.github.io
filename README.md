@@ -2,6 +2,10 @@
 
 The purpose of our team is to tutor computer coding to help you reach your goal faster. This website is to help students and parents to apply for after-school coding class in the public school. The website is designed and coded for computer and mobile.
 
+## Web
+
+![Desktop](WEB_MAIN.jpg)
+
 ## Goal
 
 We are focusing to teach computer language through Minecraft game.
