@@ -4,7 +4,7 @@ The purpose of our team is to tutor computer coding to help you reach your goal 
 
 ## Web
 
-![Desktop](WEB_MAIN.jpg)
+![Desktop](https://github.com/CPPCodingBeans/CPPCodingBeans.github.io/blob/master/WEB_MAIN.png)
 
 ## Goal
 
