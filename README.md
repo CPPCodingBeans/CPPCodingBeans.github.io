@@ -1,6 +1,6 @@
 # [Coding Bean Website](https://codingbeans.org)
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [SMARTJIN (JIN KIM)](http://github.com/texas000).
+This website is to help parents to apply for after-school coding class in public school.
 
 ## Getting Started
 
@@ -9,9 +9,14 @@ To begin using this template, choose one of the following options to get started
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
 * Fork the repo
 
-## Bugs and Issues
+## Computer Languages
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
+* Python
+* Java
+* C++
+* Html5
+* CSS
+* JavaScript
 
 ## Creator
 
