@@ -8,7 +8,7 @@ The purpose of our team is to tutor computer coding to help you reach your goal 
 
 ## Web mobile
 
-![Mobile](https://github.com/CPPCodingBeans/CPPCodingBeans.github.io/blob/master/WEB_MOB.png | height=100)
+<img src="https://github.com/CPPCodingBeans/CPPCodingBeans.github.io/blob/master/WEB_MOB.png" width="100" height="200">
 
 ## Goal
 
