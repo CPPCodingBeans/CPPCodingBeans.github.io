@@ -1,6 +1,10 @@
 # [Coding Bean Website](https://codingbeans.org)
 
-The purpose of our team is to tutor computer coding to help you reach your goal faster. This website is to help students and parents to apply for after-school coding class in the public school.
+The purpose of our team is to tutor computer coding to help you reach your goal faster. This website is to help students and parents to apply for after-school coding class in the public school. The website is designed and coded for computer and mobile.
+
+## Goal
+
+We are focusing to teach computer language through Minecraft game.
 
 ## Computer Languages
 
