@@ -13,12 +13,13 @@ The purpose of our team is to tutor computer coding to help you reach your goal 
 
 ## Creator
 
-Coding Bean Website was created by and is maintained by **[JIN KIM](http://smartjinny.com/)
+Coding Bean Website was created by and is maintained by [Jin Kim](http://smartjinny.com/)
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+## Tutor
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+* [Jin Kim](http://smartjinny.com/)
+* Natalie Chang
+* Jason Han
 
 ## Copyright and License
 
